@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
+* [HijriCalendar.cs](./CS/WindowsApplication1/HijriCalendar.cs) (VB: [HijriCalendar.vb](./VB/WindowsApplication1/HijriCalendar.vb))
+<!-- default file list end -->
 # How to display Hijri months with alternate colors
 
 
